@@ -2,7 +2,7 @@
 
 - [Zattoo](hhtps://zattoo.com)
 - [Joyn](https://joyn.de)
-- [Waipu.tv](https://waipu.tv)
+- [waipu tv](https://waipu.tv)
 - [Sky Ticket]
 - [Magenta TV App]
 
