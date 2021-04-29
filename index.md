@@ -18,7 +18,6 @@
 - [Zattoo-Premium-Zugang bringt HD-Signale und mehr](https://www.smartphonefan.de/2016/06/01/zattoo-premium-zugang-bringt-hd-signale-und-mehr/)
 - [Sky Ticket Erfahrungen](https://matthesv.de/sky-ticket-erfahrungen/)
 - [Zattoo Erfahrungen](https://matthesv.de/zattoo-erfahrungen/)
-- 
 
 ## Auf Streaming-Dongles
 - [Alles über waipu tv auf dem Fire TV](https://tv-streaming-stick.de/waipu-tv-fire-tv/)
