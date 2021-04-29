@@ -29,3 +29,4 @@ In der Mitte des Jahres 2024 soll das Nebenkostenprivileg wegfallen, Ab dann dar
 ## Alternativen zum Kabelfernsehen
 - [3 günstige Alternativen zum Kabelfernsehen](https://matthesv.de/alternative-zu-kabelfernsehen/)
 - [Alternativen zum Kabelfernsehen](https://kabelnetz-blog.de/alternativen-zum-kabelfernsehen/)
+- [DVB-T2, Satellit, Kabel, Internet – wie Sie am günstigsten fernsehen](https://www.techbook.de/entertainment/guenstig-fernsehen-dvb-t2-satellit-iptv)
