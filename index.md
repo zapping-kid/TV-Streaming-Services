@@ -1,5 +1,7 @@
 # TV-Streaming-Dienste
 
+In der Mitte des Jahres 2024 soll das Nebenkostenprivileg wegfallen, Ab dann darf der Kabelanschluss nicht mehr in den Nebenkosten abgerechnet werden. Mit Highspeed-Internet-Anschlüssen werden TV-Streaming-Dienste eine gute Alternative. In dieser Linksammung kannst du Beiträge zu verschiedenen TV-Streaming-Services finden.
+
 - [Zattoo](https://zattoo.com)
 - [Joyn](https://joyn.de)
 - [waipu tv](https://waipu.tv)
@@ -23,3 +25,7 @@
 - [Alles über waipu tv auf dem Fire TV](https://tv-streaming-stick.de/waipu-tv-fire-tv/)
 - [Alles, was ihr über TV Now auf dem Fire TV Stick wissen müsst](https://tv-streaming-stick.de/tv-now-fire-tv/)
 - [Sky Ticket auf Fire TV](https://smart-tv-stick.de/sky-ticket-fire-tv/)
+
+## Alternativen zum Kabelfernsehen
+- [3 günstige Alternativen zum Kabelfernsehen](https://matthesv.de/alternative-zu-kabelfernsehen/)
+- [Alternativen zum Kabelfernsehen](https://kabelnetz-blog.de/alternativen-zum-kabelfernsehen/)
